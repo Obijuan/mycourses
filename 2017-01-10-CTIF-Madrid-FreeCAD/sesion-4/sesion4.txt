@@ -38,11 +38,15 @@ https://github.com/FreeCAD
       - Cota horizontal
       - Restriccion de igualdad
 
-20) Que hagan ellos el rectangulo desde cero
+2) Que hagan ellos el rectangulo desde cero
 
-21) Ejercicios: Viga en H. Letras: HOLA
+3) Ejemplo: Viga en H. La hago yo: Restricciones automaticas activadas
 
-22) Restricciones de simetría
+4) Ejercicio: Que hagan la Viga en H
+
+5) Ejercicios: Letras: HOLA. Que lo guarden en un fichero para usar luego
+
+6) Restricciones de simetría
   -Ejemplo: Placa con 4 taladro en las esquinas
      -Cuadrado centrado en el origen con simetrías
      -Hacer circunferencia
@@ -52,9 +56,9 @@ https://github.com/FreeCAD
      -Aplicar simetrias
      -Mismos radios
 
-23) Dejar tiempo para que lo hagan
+5) Dejar tiempo para que lo hagan
 
-24) Ejercicios: Ladrillo, pieza en cruz, taburete
+6) Ejercicios: Ladrillo, pieza en cruz, taburete
 
 
 
