@@ -1,0 +1,74 @@
+Sesion 2
+--------
+
+
+* Presentacion
+
+-Obijuan
+
+-Herramienta FreeCAD: web freecad: http://www.freecadweb.org/?lang=es_ES
+
+-Diseño complejo: Prusa i3: https://github.com/bq/prusa-i3-hephestos
+
+-FreeCAD y Patrimonio tecnológico humanidad
+  -Biblioteca de conocimiento
+  -Formatos abiertos: nunca perderás información
+
+-Github Freecad: https://github.com/FreeCAD
+  -FreeCAD/src/Base/Axis.cpp
+  -Personas que aportan
+  -Ver los últimos commits
+
+-Tutoriales Freecad: 
+  -http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad
+  -http://www.iearobotics.com/wiki/index.php?title=Tutorial_Freecad._Temporada_2
+
+-Toma de contacto y repaso de la sesion anterior:
+
+* Monolito: 10:40:90
+  -Escenario: Parts. Geometría constructiva
+  -Ajuste preferencias: Visualizacion/Vista 3D/Navegacion 3D
+  -Cambio de color
+  -Material: Oro
+  -Vista perspectiva
+  -Sobreado
+  -Meter decimales
+
+* Geometría constructiva: Uniones
+  -Ejemplo 3:unión de 2 cubos
+  -Comprobar las propiedades: Editar/Preferencias/Diseño Piezas
+  -Cambiar tamaño cubo dentro de la fusion
+  -Ejemplo 4: piezas tetris
+
+* Geometría constructiva: Diferencias: Taladros
+  -Ejemplo 5: Taladro cilíndrico
+  -Ejercicio: Modificar taladro a 3mm
+
+* Repeticiones
+  -Ejemplo 6: Pieza de mecano
+  -Ejercicio: Modificar la pieza de mecano para tener 10 taladros
+  -Ejercicio: Hacer pieza mecano con 2 filas de taladros
+  -Ejercicio: Pieza de mecano circular: repeticion axial
+
+* Mediciones
+  -Hacer medidas sobre cubo
+  -Hacer medidas sobre pieza de mecano
+  -Estas medidas son volatiles!!! No se guardan en el fichero
+
+* Piezas parametricas
+  -Ejemplo: Paralelepípedo de base cuadrada. x = anchura, y = anchura,
+   z = anchura * 2
+  -Ejercicio: Porta pen-drives parametrico
+
+
+
+FINALIZADA
+
+
+
+
+
+
+
+  
+

@@ -1,0 +1,100 @@
+Sesion 3
+--------
+
+* Enlaces:
+-Tutoriales Freecad:
+   http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad
+
+
+
+0) Probar Imagen de Freecad en MAX (con appimage)
+
+- https://bintray.com/probono/AppImages/FreeCAD
+- https://bintray.com/probono/AppImages/download_file?file_path=FreeCAD-0.16.6707.glibc2.17-x86_64.AppImage
+
+PREPARACION
+* Arrancar Freecad
+* Arrancar key-mon
+
+---------------- COMIENZO --------------------------------------------------
+
+
+1) Comprobación del repositorio de Freecad en github. ¿Que ha ocurrido desde
+la última clase? Jueves, día 12 de Enero
+
+https://github.com/FreeCAD
+
+Commits 0.16: 6707
+Commits 0.17: 9661 : 2954 aportaciones nuevas
+
+2) Comentar errores típicos/cosas a tener en cuenta
+-Movimiento de un objeto con coordenadas
+-Movimiento de DOS objetos: ¡¡CUIDADO!! Les asignamos las mismas coordenadas
+-¡Cuidado! Al mover un objeto tal vez estéis seleccionando dos a la vez
+-¿Cómo mover dos objetos?: Darle a la opción de aplicar cambios incrementales
+
+  2 minutos para que lo prueben:  Un cilindro y un cubo. Mover
+
+¡¡MODO EDICIÓN!! --> Amarillo. Cómo salir!
+
+3) Mostrar cómo se hace el castillo. Enseñar el modelo impreso 3D
+
+4) Ejercicio: Dar 10 - 15 minutos para que hagan el castillo
+
+------------- MAS SOBRE REPETICIONES ----------------
+
+5) Repetición cartesiana: Array de esferas
+  ¡¡SOLO MIRAR!! LUEGO PRACTICAIS
+
+6) Ejercicio: Que hagan el queso
+
+
+7) Pieza de mecano por union de unidad básica
+  -Sugerido por Mariano Esteban. Solo observar
+
+8) Que hagan la pieza, usando la propiedad de fusionar
+
+9) Repetición Polar: Pieza con taladros circulares
+  Hacer como ejemplo
+
+10) Tiempo para que lo hagan ellos
+
+11) Escalera Caracol. Primero estrella con fusion. Aumento numero aspas. 
+    Convertir en algo que suba en z
+
+12) Dejar tiempo para que la hagan ellos
+
+
+12) Mostrar fichero con la escalera de caracol (avanzado)
+
+
+
+-------- PARTE 2: Extrusión de bocetos -------------------------------------
+
+13) Bocetos "Hola Mundo"
+  -Ejemplo de la estrella: Solo aprender a extruir
+  -No nos preocupamos de las medidas
+  -Desplazamiento de la estrella
+
+14) Dejar 10 minutos para que hagan la estrella
+
+15) Ejercicios: Flecha, rayo, lingote de oro
+
+16) Extrusiones y vaciados
+  -Ejemplo de objeto en varios niveles
+  -Edición de extrusiones y vaciados
+  -Modificación del nivel 1 para ver cómo afecta a todo el conjunto
+
+17) Tiempo para que hagan ellos el objeto de varios niveles
+
+18) Ejercicios: Calavera, casa, laberinto
+
+
+
+
+
+
+
+
+  
+

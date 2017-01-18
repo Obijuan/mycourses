@@ -1,0 +1,71 @@
+Sesion 4
+--------
+
+* Enlaces:
+-Tutoriales Freecad:
+   http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad
+
+
+
+0) Probar a imprimir ficha de casino en Leon-3D
+
+PREPARACION
+* Arrancar Freecad
+* Arrancar key-mon
+
+---------------- COMIENZO --------------------------------------------------
+
+
+0) Comprobación del repositorio de Freecad en github. ¿Que ha ocurrido desde
+la última clase? Martes, día 17 de Enero
+
+https://github.com/FreeCAD
+
+-------- PARTE 2: Extrusión de bocetos -------------------------------------
+
+1) Aplicando Restricciones: Puntos coincidentes, líneas horizontales, líneas
+  verticales, misma longitud, cota horizontal y cota vertical
+  -Ejemplo: Un rectangulo
+      - 4 lines separadas
+      - Grados de libertad
+      - Quitar restricciones
+      - Resriccciones de coincidencia
+      - Restriccion de horizontalidad
+      - Restricción de verticalidad
+      - Repetir con Multilinea y las restricciones automáticas
+      - Restricciones redundantes: eliminar
+      - Cota vertical
+      - Cota horizontal
+      - Restriccion de igualdad
+
+20) Que hagan ellos el rectangulo desde cero
+
+21) Ejercicios: Viga en H. Letras: HOLA
+
+22) Restricciones de simetría
+  -Ejemplo: Placa con 4 taladro en las esquinas
+     -Cuadrado centrado en el origen con simetrías
+     -Hacer circunferencia
+     -Dar radio circunferencia
+     -Posicionar circunferencia con respecto cuadrado
+     -Poner otros 3 taladors
+     -Aplicar simetrias
+     -Mismos radios
+
+23) Dejar tiempo para que lo hagan
+
+24) Ejercicios: Ladrillo, pieza en cruz, taburete
+
+
+
+* Bocetos parametricos
+  -Ejemplo: Un cubo parametrico, hecho con Bocetos
+  -Ejercicio: Viga en H parametrica
+
+
+
+
+
+
+  
+
