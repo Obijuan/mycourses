@@ -23,30 +23,64 @@ https://github.com/FreeCAD
 
 -------- PARTE 2: Extrusión de bocetos -------------------------------------
 
-1) Aplicando Restricciones: Puntos coincidentes, líneas horizontales, líneas
-  verticales, misma longitud, cota horizontal y cota vertical
-  -Ejemplo: Un rectangulo
-      - 4 lines separadas
-      - Grados de libertad
-      - Quitar restricciones
-      - Resriccciones de coincidencia
-      - Restriccion de horizontalidad
-      - Restricción de verticalidad
-      - Repetir con Multilinea y las restricciones automáticas
-      - Restricciones redundantes: eliminar
-      - Cota vertical
-      - Cota horizontal
-      - Restriccion de igualdad
+1) Aplicando restricciones. Rectángulo extruido
+  -IMPORTANTE: quitar las RESTRICCIONES AUTOMATICAS
+  -4 lineas separadas
+  -Tota 8 puntos. Cada punto 2 coordenadas 8x2 = 16. Tenemos que establecer
+    16 valores para dejar fijada nuestro objeto
+  -Partimos de lo más general: Cualquier cosa con 4 líneas
+  -Restriccion 1: Coincidencia de puntos
+  -Quitar restricción y volver a poner
+  -Contorno cerrado de 4 lados: Genérico: incluye todos las posibles figuras
+   con 4 lados.  4x2 = 8 grados de libertad
+  -Restricción 2: Horizontalidad
+  -Quitar y volver a poner
+  -Ahora tenemos todas las figuras de 4 lados con dos lados paralelos
+   6 grados de libertad
+  -Restricción 3: Verticalidad
+  -Quitar y volver a poner
+  -Ya tenemos todos los posibles rectángulos 4 grados de libertad. Todavía
+   hay infinitos
+  -Restricción 4: Cota horizontal
+  -Quitar y volver a poner: 3 grados libertad
+  -Restricción 5: Cota vertical
+  -Quitar y volver a poner: 2 grados libertad: posicion
+  -Restricción 6: Fijar coordenadas de un vértice. Verde. Listo!
+  -CUIDADO: Restricciones redundantes!!!!!!!!!!!!
 
-2) Que hagan ellos el rectangulo desde cero
+2) Practicando: Que hagan el rectángulo de 40 x 30 DESDE 0, a partir de líneas
 
-3) Ejemplo: Viga en H. La hago yo: Restricciones automaticas activadas
+3) Repetimos el mismo rectángulo, pero con MULTILINEA: Normalmente los contornos
+   cerrados siempre los hacemos con multilinea
+   -Hacemos una multilinea cerrada
+   -Observamos que han aparecido restricciones de coincidencia en los puntos
+   -En cualquier momento las podemos quitar
+   -Añadimos las restricciones de verticalidad y horizontalidad
+   -Añadimos las cotas verticales y horizontales
+   -Fijamos la posición de un vértice
 
-4) Ejercicio: Que hagan la Viga en H
+4) Practicando: Que hagan el mismo rectángulo, desde 0 pero usando la multilinea
 
-5) Ejercicios: Letras: HOLA. Que lo guarden en un fichero para usar luego
+5) Haremos un cuadrado, pero usando la herramienta de rectángulos
+  -Fijarse en que ya aparecen las restricciones
+  -Quitar una arista
+  -Volver a añadirla
+  -Añadimos las cotas verticales y horizontales
+  -Quitar una cota
+  -RESTRICCION DE IGUALDAD!!!! ---> Cuadrados!!!
+  -Añadimos la posición de un vértice, pero MEDIANTE COTAS
 
-6) Restricciones de simetría
+6) Practicando: Hacer el cuadrado, a partir de la herramienta de rectángulos
+
+7) Ejemplo de la viga en H. Idea: Filosofia de diseño. Como vamos de lo
+   general a lo detallado, añadiendo restricciones
+   RESTRICCIONES AUTOMATICAS ACTIVADAS
+
+8) EJERCICIO: que hagan la viga ellos
+
+9) EJERCICIO: Letras: HOLA. Que lo guarden en un fichero para usar luego
+
+10) Restricciones de simetría
   -Ejemplo: Placa con 4 taladro en las esquinas
      -Cuadrado centrado en el origen con simetrías
      -Hacer circunferencia
@@ -56,7 +90,9 @@ https://github.com/FreeCAD
      -Aplicar simetrias
      -Mismos radios
 
-5) Dejar tiempo para que lo hagan
+11) Dejar tiempo para que lo hagan
+
+12) Ejercicio: Ladrillo. Explicar la extrusión simétrica
 
 6) Ejercicios: Ladrillo, pieza en cruz, taburete
 
