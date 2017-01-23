@@ -13,6 +13,9 @@ PREPARACION
 * Arrancar Freecad
 * Arrancar key-mon
 
+Se activaba la base caliente. En la tercera capa la temperatura subía mucho y se 
+alcanzaba el máximo, por lo que la impresora se paraba
+
 ---------------- COMIENZO --------------------------------------------------
 
 
@@ -80,32 +83,7 @@ https://github.com/FreeCAD
 
 9) EJERCICIO: Letras: HOLA. Que lo guarden en un fichero para usar luego
 
-10) Restricciones de simetría. Placa con 4 taladros
-  -Ejemplo: Placa con 4 taladro en las esquinas
-     -Cuadrado centrado en el origen con simetrías
-     -Hacer circunferencia
-     -Dar radio circunferencia
-     -Posicionar circunferencia con respecto cuadrado
-     -Poner otros 3 taladors
-     -Aplicar simetrias
-     -Mismos radios
-
-11) Dejar tiempo para que lo hagan
-
-12) Ejercicio: Ladrillo. Explicar la extrusión simétrica. Todo se hace en 
-    un único boceto, porque los vaciados son hasta el final
-
-13) Ejercicio: Taburete. Hay que hacer 2 bocetos: uno para la base del taburete
-    Otro para las patas. Elemento comun a ambos bocetos: EL ORIGEN
-
-14) Taburete Paramétrico. Enseñar que las cotas se pueden parametrizar
-    Parametrizar el radio de las patas y el del taburete y la altura de las patas
-
-15) Cartel con marco con la palabra HOLA. Dos bocetos
-
-16) Pieza porta-móviles
-
-17) Poner textos
+10) Poner textos
    -Escribir google fonts en navegador
    -https://fonts.google.com/
    -Open sans (o la que quieran)
@@ -113,11 +91,7 @@ https://github.com/FreeCAD
    -Modulo draft
    -Poner plano de trabajo en el suelo
    -Poner texto!
-   
 
-18) Ejercicio: Llavero personalizado
-
-19) Ejercicio: Boli personalizado
 
 
 
