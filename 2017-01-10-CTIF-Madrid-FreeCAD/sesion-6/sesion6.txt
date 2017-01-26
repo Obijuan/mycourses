@@ -1,0 +1,78 @@
+Sesion 6
+--------
+
+* Enlaces:
+-Tutoriales Freecad:
+   http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad
+
+
+
+PREPARACION
+* Arrancar Freecad
+* Arrancar key-mon
+
+---------------- PARTE I --------------------------------------------------
+
+
+1) Mostrar objetos en part: primitivas geométricas
+    -Plano
+    -Helice: Radio 30. Pitch: 40. Altura: 100
+    -Espiral: Radio 10, evolucion: 10, Rotaciones 2
+
+2) Extrusión por trayectoria: Ejemplo: ESPIRAL SOLIDA
+   -Crear una espiral con parametros: 10, 10, 2
+   -Crear boceto plano zx: cuadrado de 5mm, desplazado en x 10mm
+   --> Enseñar como calcular centro cuadrado, con linea vertical auxiliar
+   -Extruir por trayectoria. Se selecciona la sección y luego trayectoria
+   ->Es parametrica: cambiar el crecimiento de la espiral --> Automaticamente
+    se recalcula la figura 3D
+
+3) Dejar tiempo para que la hagan ellos
+
+4) Extrusión con torsión: Ejemplo: Caja rectangular retorcida
+   -Crear cuadrado en plano xy, de 40mm lado. Centrado origen
+   -Crear una hélice de: Paso 40. Altura 40. Radio 20
+   -Extruir con torsión
+   -Indicar la fórmula para calcular paso en función de los grados de torsión:
+     pitch = 360 * Altura / ang. torsion
+   -Hacer un ejemplo con angulo de torsión de 45 grados
+
+5) Dejar tiempo para que hagan el ejercicio ellos
+
+6) Enseñar pieza con dientes (Pedida por uno de los asistentes)
+
+7) Extrusión por revolución: Ficha
+
+8) Dejar tiempo para que la hagan
+
+9) (Opcional). Si hay tiempo: Inkscape: Paso de inkscape a freecad. 
+    Ejemplo: Flor
+    -IMPORTANTE: ¡Contornos cerrados!
+    -Exportar a SVG plano
+
+10) (opcional). Si hay tiempo. Biblioteca de piezas de Freecad
+
+    https://github.com/FreeCAD/FreeCAD-library
+
+    -> Descargar fichero .zip (Clone or Download)
+
+
+
+
+---------------- PARTE II --------------------------------------------------
+
+11) Impresión 3D (Julian)
+
+
+
+
+
+
+
+
+
+
+
+
+  
+

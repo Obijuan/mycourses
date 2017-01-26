@@ -1,0 +1,116 @@
+Sesion 5
+--------
+
+* Enlaces:
+-Tutoriales Freecad:
+   http://www.iearobotics.com/wiki/index.php?title=Dise%C3%B1o_de_piezas_con_Freecad
+
+
+
+0) Probar a imprimir ficha de casino en Leon-3D
+
+-Laminado con Slic3r
+-Probar a ver qué pasa....
+
+
+PREPARACION
+* Arrancar Freecad
+* Arrancar key-mon
+
+---------------- COMIENZO --------------------------------------------------
+
+0) Enseñar las fichas de casino. ¿Que ha pasado con la impresion?
+
+0) Comprobación del repositorio de Freecad en github. ¿Que ha ocurrido desde
+la última clase? Martes, día 19 de Enero
+
+https://github.com/FreeCAD
+
+1) Enseñar lo último en lo que estoy trabjando: placa de soporte para la placa
+Icezum Alhambra. Enseñarlo en Freecad
+
+https://github.com/FPGAwars/Icezum-Alhambra-3D-support/wiki
+
+1.2) Enseñar Soporte para servos
+
+1.3) Enseñar ejemplo del servo con icestudio
+
+2) Enseñar la torre de Jose Manuel (Impresa y diseño 3D)
+
+2bis) Enseñar vídeo de Freecad en el modo minecraft:
+      https://www.youtube.com/watch?v=nE0LYK__R5U
+
+2bisbis) Enseñar el banco de trabajo!!!!!
+
+
+3) Restricciones de simetría. 
+   -Abrir un boceto nuevo
+   -Explicar las simetrías con rectas
+   -Simetrías de ejes
+   -Contar por qué son importantes las simetrías
+ 
+4) Enseñar a poner cicunferencias. 
+   -Simetría de circunferencias
+   -Establecer radios
+   -Restricciones de igualdad
+   -4 taladros: uno en cada cuadrante
+
+5) Enseñar simetrías con rectángulos
+    -Simetrías entre rectángulos (usar las diagonales)
+    -Simetrías centrales
+    -Restriccion de candado
+    -Localizar el eje central de un rectángulo
+
+
+6) -Ejemplo: Placa con 4 taladro en las esquinas
+     ¿Cómo se hace?
+     Hacer de ejemplo
+     Cotas parametricas
+     Poner nombres a las cotas
+
+7) Dejar tiempo para que lo hagan
+
+
+8) Ejercicio: Ladrillo. Explicar la extrusión simétrica. Todo se hace en 
+    un único boceto, porque los vaciados son hasta el final
+
+9) Ejercicio: Taburete. Hay que hacer 2 bocetos: uno para la base del taburete
+    Otro para las patas. Elemento comun a ambos bocetos: EL ORIGEN
+
+10) *  Enseñar líneas auxiliares
+    *  Arcos
+    *  Tangentes
+    *  Perpendiculares
+    *  Ángulos
+
+11) Enseñar Gancho de Ikea en OpenScad. Enseñar cómo se importa en Freecad
+
+12) Hacer como ejemplo el gancho de ikea en Freecad
+
+13) Ejercicio: Que lo hagan ellos. Y que lo parametricen!!!!!
+
+14) EJERCICIO: Portamóviles
+
+
+
+Gancho Ikea:
+
+http://www.iearobotics.com/wiki/index.php?title=Objeto_3D:Ganchos_de_Ikea
+
+
+   
+
+18) Ejercicio: Llavero personalizado
+
+19) Ejercicio: Boli personalizado
+
+
+
+
+
+
+
+
+
+  
+
