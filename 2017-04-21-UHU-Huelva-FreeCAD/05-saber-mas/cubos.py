@@ -13,6 +13,6 @@ for i in range(7):
 
     # -- Cambiar su posicion
     o = FreeCAD.ActiveDocument.getObject("Box{}".format(i))
-    o.Placement.Base.x = i*10
+    o.Placement.Base.x = i*15
 
 doc.recompute()
